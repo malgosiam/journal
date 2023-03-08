@@ -1,0 +1,10 @@
+.header {
+  background-color: var(--color-water-10);
+  position: absolute;
+  top: 0;
+  width: 100vw;
+}
+
+.header__heading {
+  text-align: center;
+}

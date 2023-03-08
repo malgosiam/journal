@@ -1,0 +1,17 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  margin: 0 10%;
+}
+
+.form__fieldset {
+  border: none;
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+}
+
+.form__legend {
+  text-align: center;
+  padding: 1rem;
+}
